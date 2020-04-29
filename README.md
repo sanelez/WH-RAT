@@ -54,8 +54,8 @@ Usage of WH-HackerExploit Hacking Tool for attacking targets without prior mutua
 
 
  ☆ how to use in pc ⏬
-🏳 [Coming soon ](  "WH-HackerExploit Advance penetration framework ( PC ) ") 
-
+ 
+🏳 [WH-RAT v1.0.1 | Windows + Android Advance penetration framework | WH-HackerExploit ( PC )]( https://www.youtube.com/watch?v=1DmdlfA8O_8 "WH-HackerExploit BOTNET Advance penetration framework ( PC ) ") 
 
 
 
@@ -63,11 +63,11 @@ Usage of WH-HackerExploit Hacking Tool for attacking targets without prior mutua
 
 
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-hackerexploit/WH-RAT/master/img/wrat1.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-HackerExploit WH-RAT Advance Android penetration framework")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-hackerexploit/WH-RAT/master/img/wrat1.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-RAT v1.0.1 | Windows + Android Advance penetration framework | WH-HackerExploit ( PC )")
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-hackerexploit/WH-RAT/master/img/wrat2.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-HackerExploit WH-RAT Advance Android penetration framework")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-hackerexploit/WH-RAT/master/img/wrat2.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-RAT v1.0.1 | Windows + Android Advance penetration framework | WH-HackerExploit ( PC )")
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-hackerexploit/WH-RAT/master/img/whrat4.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-HackerExploit WH-RAT Advance Android penetration framework")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-hackerexploit/WH-RAT/master/img/whrat4.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-RAT v1.0.1 | Windows + Android Advance penetration framework | WH-HackerExploit ( PC )")
 
 
 
