@@ -55,7 +55,13 @@ Usage of WH-HackerExploit Hacking Tool for attacking targets without prior mutua
 
  ☆ how to use in pc ⏬
  
-🏳 [WH-RAT v1.0.1 | Windows + Android Advance penetration framework | WH-HackerExploit ( PC )]( https://www.youtube.com/watch?v=1DmdlfA8O_8 "WH-HackerExploit BOTNET Advance penetration framework ( PC ) ") 
+🏳 [WH-RAT v1.0.1 | Windows + Android Advance penetration framework | WH-HackerExploit ( PC )]( https://www.youtube.com/watch?v=1DmdlfA8O_8 "WH RAT | Java path not found error | WH-HackerExploit ( PC ) ") 
+
+
+
+# Common error Fix
+
+🏳 [WH RAT | Java path not found error | WH-HackerExploit ( PC )]( https://www.youtube.com/watch?v=YyVouOv91k0&feature=youtu.be "WH RAT | Java path not found error | WH-HackerExploit ( PC ) ") 
 
 
 
