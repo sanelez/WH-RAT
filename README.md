@@ -13,7 +13,7 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  
 ☆ WH-Rat x86 / 32 bit > mega drive :[Here]( https://mega.nz/file/IM0THbJB#okXmooZQTmEnpy2k6e0cpCnj_AFu1D01Ef3OMLAgLs0 "WH-Rat x86 / 32 bit")
 
 
-☆ WH-Rat x86 / 32 bit > google drive :[Here]( https://drive.google.com/open?id=1i-0wg7amz0yw4_c0xasnc5id_WbYt1https://drive.google.com/uc?id=1i-0wg7amz0yw4_c0xasnc5id_WbYt1AP&export=downloadAP "WH-Rat x86 / 32 bit")
+☆ WH-Rat x86 / 32 bit > google drive :[Here]( https://drive.google.com/uc?id=1i-0wg7amz0yw4_c0xasnc5id_WbYt1AP&export=downloadAP "WH-Rat x86 / 32 bit")
 
 # ➰ requirements PKG
 
